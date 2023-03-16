@@ -1,6 +1,6 @@
 # Sound transparency Koh block-test
 
-Experimental data Koh block test used to compare cognitive performance for sound transparency ON/OFF
+Experimental data Koh block test used to compare cognitive performance for sound transparency ON/OFF within a FFD Terra-Suit
 
 
 Files:
