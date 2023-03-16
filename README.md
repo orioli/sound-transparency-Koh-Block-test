@@ -1,4 +1,4 @@
-# sound transparency Koh block-test
+# Sound transparency Koh block-test
 
 Experimental data Koh block test used to compare cognitive performance for sound transparency ON/OFF
 
@@ -12,3 +12,4 @@ Social
 For more info contact us at
 - https://faculty.uaeu.ac.ae/jose/
 - +971(0) 3713 5555
+
